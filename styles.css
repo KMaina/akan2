@@ -1,5 +1,4 @@
-* 
- body {
+body {
     background: url('../IBBZ/wp2010929-ghana-flag-wallpapers.jpg');
     text-decoration-color: sandybrown;
     text-decoration: snow;
@@ -8,4 +7,8 @@
     box-sizing: content-box;
     text-decoration: underline;
     
+}
+
+form {
+    max-width: 350px;
 }
